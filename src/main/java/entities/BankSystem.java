@@ -2,8 +2,8 @@ package entities;
 
 public class BankSystem {
 
-    private int conta;
-    private String name;
+    private final int conta;
+    private final String name;
     private double balance;
 
     public BankSystem(int conta, String name, double depositoInicial){
