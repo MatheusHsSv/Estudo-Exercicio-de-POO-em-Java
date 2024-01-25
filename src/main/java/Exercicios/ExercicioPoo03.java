@@ -1,3 +1,5 @@
+package Exercicios;
+
 import entities.AverageCalculator;
 
 import java.util.Scanner;

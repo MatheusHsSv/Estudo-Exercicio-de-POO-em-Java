@@ -1,3 +1,5 @@
+package Exercicios;
+
 import entities.CalculatorOfRectangle;
 
 import java.util.Scanner;

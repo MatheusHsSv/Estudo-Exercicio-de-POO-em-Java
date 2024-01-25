@@ -1,3 +1,5 @@
+package Study;
+
 import entities.Triangle;
 
 import java.util.Scanner;
