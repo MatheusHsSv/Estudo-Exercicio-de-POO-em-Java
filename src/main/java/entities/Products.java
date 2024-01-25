@@ -2,8 +2,8 @@ package entities;
 
 public class Products {
 
-        private String name;
-        private double price;
+        private final String name;
+        private final double price;
         public int quantity;
 
 
